@@ -1,4 +1,4 @@
-function skew_symmetric_matrix= S(vector)
+function skew_symmetric_matrix = S(vector)
     x = vector(1);
     y = vector(2);
     z = vector(3);
